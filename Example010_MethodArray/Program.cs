@@ -2,7 +2,6 @@
 
 int n = array.Length;
 int find = 18;
-
 int index = 0;
 
 while (index < n)
